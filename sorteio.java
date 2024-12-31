@@ -17,26 +17,29 @@ public class sorteio {
 
             Random random = new Random();
             int sorteado = random.nextInt(20000) + 0;
-            System.out.println("estamos comecando o palpite e acerto;\n vamos la qual e seu palpite");
+            System.out.println("estamos comecando o palpite e acerto;");
             
             while (verificação == 1) 
             {
+              System.out.println("vamos-la qual e seu palpite?");
               int palpite = Integer.parseInt(scanner.next());
+              
 
                 if (palpite > sorteado) 
                 {
-                    System.out.println("vc errou o numero e menor\n tente denovo");
+                    System.out.println("vc errou!!!, o numero e menor\n tente denovo");
                 }
                 if (palpite == sorteado) 
                 {
-                    System.err.println("parabens vc acertou o numero");
+                    System.err.println("parabens!!!, vc acertou o numero");
                     verificação ++;
                     System.out.println("vc acertou com :" +(tentativas+1)+"tentativas");
+                    System.out.println("vc acertou com : "+(tentativas+1)+" tentativas");
                     return;
                 }
                 if (palpite < sorteado) 
                 {   
-                    System.out.println("vc errou o numero e maior\n tente denovo");
+                    System.out.println("vc errou!!!, o numero e maior\n tente denovo");
                 }
                 tentativas++;
             }
