@@ -33,7 +33,6 @@ public class sorteio {
                 {
                     System.err.println("parabens!!!, vc acertou o numero");
                     verificação ++;
-                    System.out.println("vc acertou com :" +(tentativas+1)+"tentativas");
                     System.out.println("vc acertou com : "+(tentativas+1)+" tentativas");
                     return;
                 }
