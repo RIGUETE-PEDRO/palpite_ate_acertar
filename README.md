@@ -39,9 +39,5 @@ vc errou!!!, o numero e maior
 tente denovo
 ...
 parabens!!!, vc acertou o numero
-vc acertou com : 5 tentativasvc acertou com : 5 tentativas
 vc acertou com : 5 tentativas
 =======
-
-
->>>>>>> 53409e5681a61e5b7c44de0311952477185d97b7
