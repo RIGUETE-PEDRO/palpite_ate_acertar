@@ -40,6 +40,7 @@ tente denovo
 ...
 parabens!!!, vc acertou o numero
 vc acertou com : 5 tentativasvc acertou com : 5 tentativas
+vc acertou com : 5 tentativas
 =======
 
 <h1>JOGO DO PALPITE</h1>
