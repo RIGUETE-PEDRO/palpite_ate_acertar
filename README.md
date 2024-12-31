@@ -1,7 +1,7 @@
 
 <h1>JOGO DO PALPITE</h1>
 
-###
+
 <h2>EXEMPLO</h2>
 
 ESSE JOGO FOI FEITO TODO EM JAVA 
