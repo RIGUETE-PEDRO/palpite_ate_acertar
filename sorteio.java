@@ -16,7 +16,7 @@ public class sorteio {
             int tentativas = 0;
 
             Random random = new Random();
-            int sorteado = random.nextInt(20000) + 0;
+            int sorteado = random.nextInt(5000) + 0;
             System.out.println("estamos comecando o palpite e acerto;");
             
             while (verificação == 1) 
