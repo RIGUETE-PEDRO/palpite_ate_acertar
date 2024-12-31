@@ -10,7 +10,7 @@ USANDO O CAMANDO
 E O SEGUINTE ELE PEDE O USUARIO PARA DIGITAR UM NUMERO
 | NUMERO SORTEADO | PALPITE | MAIOR? | MENOR? | CERTA RESPOSTA|
 |   ---   |   ---   | --- | --- | --- |
-|  5  |  10  |  O NUMERO E MENOR TENTE NOVAMENTE |                                  |                              | aling-center;
+|  5  |  10  |  O NUMERO E MENOR TENTE NOVAMENTE |                                  |                              | 
 |  5  |  4   |                                   | O NUMERO E MAIOR TENTE NOVAMENTE |                              |
 |  5  |  5   |                                   |                                  | PARABENS VC ACERTOU O NUMERO |
 
